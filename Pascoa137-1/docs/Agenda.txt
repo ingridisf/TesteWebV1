@@ -1,0 +1,32 @@
+AGENDA
+24/abr - Selenium + Cucumber
+26/abr - Selenium + Cucumber + Page Objects
+01/mai - Feriado do Dia do Trabalho
+03/mai - Appium + SauceLabs
+08/mai - Final Appium
+10/mai - Cypress para Web
+15/mai - Cypress para Web
+17/mai - Cypress para Web
+22/mai - Cypress para Web
+
+PREPARATIVOS
+Antes da 1ª aula de Appium - 3/mai
+- Assista o evento Semana do Teste Mobile - Apenas aulas 2 e 3 (+/- 6h)
+https://iterasys.com.br/pt/cursos/semana-do-teste-mobile
+- Resolva eventuais duvidas e dificuldades através do WhatsApp da Iterasys
+
+EXTRAS
+> Testes de API
+14/abr - ToolsQA - Agendador
+05/mai - Heroku - Livros - 19h às 21h
+> Testes Web - Dificuldade com Identificadores e Esperas
+https://testando.eveclass.com (site alvo) - 12 e 19/mai
+
+COMO FAREMOS NA 138
+- Exercícios em aula (como aqui na 137)
+- Exercicios adicionais para praticar
+- Projeto Rápido (5 etapas)
+--> Squad de Teste
+
+SQUAD DE TESTE
+- 5/jun - Novas Squads com um novo software (API, Web e App) - 10 semanas
