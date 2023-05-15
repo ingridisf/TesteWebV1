@@ -37,4 +37,5 @@ Há 3 formas de configurar/utilizar um driver:
 
 
 
-
+Page Objects / Page Factory
+Automação de teste robusta, que simplifique a manutenção e ampliação do teste
